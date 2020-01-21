@@ -1,4 +1,11 @@
-# Weatherapp.vue
+# Weather App
+- Weather app using Vue.js
+
+# Used Technologies
+
+- Vue.js 2.6.10
+- Dark Sky API
+- Bootswatch
 
 ## Project setup
 ```
